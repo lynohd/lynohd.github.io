@@ -1,0 +1,16 @@
+{
+	"appName":"Vuln timer test app",
+	"description":"vuln timer.",
+	"appUrl":"http://127.0.0.1:5500/Vuln",
+	"configUrl":"http://127.0.0.1:5500/Vuln/appconfig.json",
+	"iconUrl":"http://127.0.0.1:5500/Vuln/images/icon.png",
+	"defaultWidth":190,
+	"defaultHeight":100,
+	"minWidth":50,
+	"minHeight":50,
+	"maxWidth":250,
+	"maxHeight":250,
+	"requestHandlers":[],
+	"activators":[],
+	"permissions":"pixel,gamestate,overlay"
+}

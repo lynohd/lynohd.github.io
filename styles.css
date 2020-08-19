@@ -1,0 +1,24 @@
+.vuln-header-icon {
+    margin-top: 2px 2px;
+    text-align: center;
+    padding: 3px 3px 5px 3px;
+}
+
+.vuln-header-icon img {
+    width: 20px; 
+    height: 20px;
+    vertical-align: middle;
+}
+
+.vuln-header-icon span {
+    color: white;
+    font-size: 15px; 
+    vertical-align: middle;
+}
+
+.container .vuln-timer-text p {
+    color: white;
+    font-size: calc(15vw + 15vh);
+    line-height: 0.25vw;
+    text-align: center;
+}
